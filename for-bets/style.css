@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mao {
+    background-image: url(img/bg-masthead.jpg);
+    height: 550px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bour {
+    width: 40%;
+    height: 50px;
+}
+
+.bour:hover {
+     border: 5px solid lightblue;
+}
+
+#bare .barer {
+    float: left;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 20vh;
+}
+
+.barer i {
+    font-size: 3rem;
+    color: blue;
+}
+
+#bare {
+    background-color: #ddd;
+    height: 450px;
+}
+
+#nope .noper {
+    float: right;
+    width: 50%;
+}
+
+.noas {
+    width: 45%;
+    padding-top: 150px;
+    padding-left: 30px;
+}
+
+#haro .haror {
+    float: left;
+    width: 50%;
+}
+
+.nosa {
+    padding-top: 120px;
+    height: 400px;
+    padding-left: 30px;
+}
+
+#boar {
+    background-color: #ddd;
+    padding-top: -90px;
+    height: 500px;
+}
+
+#noax .noxer {
+    float: left;
+    margin-left: 120px;
+    text-align: center;
+}
+
+.noxer img {
+    border-radius: 50%;
+    height: 200px;
+}
+
+#moam {
+    background-image: url(img/bg-masthead.jpg);
+    height: 300px;
+    margin-top: 50vh;
+    background-position: center;
+}
+
+.momer {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.gorel a {
+    margin-left: 30px;
+}
+
+.maoa p{
+    font-size: 2rem;
+    color: blue ;
+}
